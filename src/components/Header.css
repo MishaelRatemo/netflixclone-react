@@ -1,0 +1,19 @@
+.header{
+    position: sticky;
+    background-color: black;
+    display: flex;
+    z-index: 50;
+    justify-content: space-between;
+    width: 96% ;
+    padding: 2%;
+    /* fade when not scrolled */
+    transition-timing-function: ease-in-out;
+    transition: all 0.7s;
+}
+.logo{
+    width: 25%;
+}
+.userAvatar{
+    width: 7%;
+    border-radius: 5%;
+}
