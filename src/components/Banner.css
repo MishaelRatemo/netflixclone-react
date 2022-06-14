@@ -1,0 +1,9 @@
+.banner{
+    color: white;
+    object-fit: contain;
+    height: 70vh;
+    width: 100%;
+}
+.ban_content{
+   margin-left: -50%;
+}
