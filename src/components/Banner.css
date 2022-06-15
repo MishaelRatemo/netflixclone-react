@@ -5,5 +5,27 @@
     width: 100%;
 }
 .ban_content{
-   margin-left: -50%;
+   /* margin-left: 50%; */
+   padding-top: 20%;
+}
+.ban_title{
+    font-size: 3.1em;
+    margin-left: -40%;
+}
+.description{
+    width: 80%;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.ban_btn{
+    margin-left: -40%;
+    color: black;
+    font-size: 2.1em;
+    font-weight: 700;
+    padding: .5%;
+    background-color: rgba(rgb(255, 245, 245), rgb(244, 249, 244), rgb(238, 238, 248), alpha);
+}
+.bottomFade{
+    height: 7rem;
+    background-image: linear-gradient(180deg, transparent, rgba(254, 98, 254, 0.6));
 }
